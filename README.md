@@ -4,3 +4,8 @@ An example repository for the Getting Started with Git and GitHub workshop on 3 
 ***
 
 Comment added 2023-07-03 at 14:54 CEDT
+
+
+***
+
+Comment added 2023-07-03 at 15:04 CEDT
